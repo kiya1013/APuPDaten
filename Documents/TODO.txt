@@ -1,2 +1,7 @@
 Model Selection
 Hyperparameter optimization
+Bei Train-Test-Split noch die Größe angeben
+Mit in die Präsentation aufnehmen, welche Modelle nicht gut funktioniert haben
+Können wir auch die Zeiträume, in denen die Anomalien auftreten eingrenzen? 
+Können wir da auch mit anderen Verfahren eine Aussage machen?
+Oder auch wenn wir es Schrittweise betrachten? => Analyse auf dem Originaldatensatz
