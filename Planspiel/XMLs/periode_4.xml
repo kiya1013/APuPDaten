@@ -3,64 +3,64 @@
 <forecast p1="200" p2="150" p3="100"/>
 <warehousestock>
 <article id="1" amount="0" startamount="100" pct="0,00" price="161,01" stockvalue="0,00"/>
-<article id="2" amount="0" startamount="100" pct="0,00" price="165,20" stockvalue="0,00"/>
-<article id="3" amount="0" startamount="100" pct="0,00" price="168,28" stockvalue="0,00"/>
-<article id="4" amount="100" startamount="100" pct="100,00" price="39,71" stockvalue="3970,76"/>
+<article id="2" amount="50" startamount="100" pct="0,00" price="165,20" stockvalue="0,00"/>
+<article id="3" amount="10" startamount="100" pct="0,00" price="168,28" stockvalue="0,00"/>
+<article id="4" amount="0" startamount="100" pct="100,00" price="39,71" stockvalue="3970,76"/>
 <article id="5" amount="100" startamount="100" pct="100,00" price="40,68" stockvalue="4067,74"/>
 <article id="6" amount="100" startamount="100" pct="100,00" price="41,49" stockvalue="4149,35"/>
 <article id="7" amount="100" startamount="100" pct="100,00" price="35,54" stockvalue="3553,70"/>
 <article id="8" amount="100" startamount="100" pct="100,00" price="36,25" stockvalue="3624,55"/>
 <article id="9" amount="100" startamount="100" pct="100,00" price="36,75" stockvalue="3675,28"/>
-<article id="10" amount="100" startamount="100" pct="100,00" price="13,53" stockvalue="1352,53"/>
-<article id="11" amount="100" startamount="100" pct="100,00" price="14,35" stockvalue="1434,62"/>
-<article id="12" amount="100" startamount="100" pct="100,00" price="15,08" stockvalue="1507,97"/>
+<article id="10" amount="200" startamount="100" pct="100,00" price="13,53" stockvalue="1352,53"/>
+<article id="11" amount="60" startamount="100" pct="100,00" price="14,35" stockvalue="1434,62"/>
+<article id="12" amount="90" startamount="100" pct="100,00" price="15,08" stockvalue="1507,97"/>
 <article id="13" amount="100" startamount="100" pct="100,00" price="13,59" stockvalue="1358,99"/>
 <article id="14" amount="100" startamount="100" pct="100,00" price="14,51" stockvalue="1450,53"/>
-<article id="15" amount="100" startamount="100" pct="100,00" price="14,66" stockvalue="1465,52"/>
+<article id="15" amount="90" startamount="100" pct="100,00" price="14,66" stockvalue="1465,52"/>
 <article id="16" amount="300" startamount="300" pct="100,00" price="7,13" stockvalue="2138,50"/>
 <article id="17" amount="300" startamount="300" pct="100,00" price="7,68" stockvalue="2303,43"/>
 <article id="18" amount="100" startamount="100" pct="100,00" price="14,15" stockvalue="1414,50"/>
 <article id="19" amount="100" startamount="100" pct="100,00" price="16,26" stockvalue="1626,41"/>
-<article id="20" amount="100" startamount="100" pct="100,00" price="17,33" stockvalue="1732,56"/>
-<article id="21" amount="450" startamount="300" pct="150,00" price="4,67" stockvalue="2100,00"/>
-<article id="22" amount="300" startamount="300" pct="100,00" price="6,03" stockvalue="1809,68"/>
-<article id="23" amount="350" startamount="300" pct="116,67" price="6,09" stockvalue="2130,00"/>
-<article id="24" amount="5200" startamount="6100" pct="85,25" price="0,19" stockvalue="965,15"/>
-<article id="25" amount="3200" startamount="3600" pct="88,89" price="0,06" stockvalue="207,46"/>
-<article id="26" amount="300" startamount="300" pct="100,00" price="11,39" stockvalue="3417,51"/>
-<article id="27" amount="1600" startamount="1800" pct="88,89" price="0,12" stockvalue="191,45"/>
-<article id="28" amount="4200" startamount="4500" pct="93,33" price="1,19" stockvalue="5016,98"/>
+<article id="20" amount="90" startamount="100" pct="100,00" price="17,33" stockvalue="1732,56"/>
+<article id="21" amount="590" startamount="300" pct="150,00" price="4,67" stockvalue="2100,00"/>
+<article id="22" amount="200" startamount="300" pct="100,00" price="6,03" stockvalue="1809,68"/>
+<article id="23" amount="340" startamount="300" pct="116,67" price="6,09" stockvalue="2130,00"/>
+<article id="24" amount="2970" startamount="6100" pct="85,25" price="0,19" stockvalue="965,15"/>
+<article id="25" amount="1960" startamount="3600" pct="88,89" price="0,06" stockvalue="207,46"/>
+<article id="26" amount="280" startamount="300" pct="100,00" price="11,39" stockvalue="3417,51"/>
+<article id="27" amount="970" startamount="1800" pct="88,89" price="0,12" stockvalue="191,45"/>
+<article id="28" amount="7140" startamount="4500" pct="93,33" price="1,19" stockvalue="5016,98"/>
 <article id="29" amount="100" startamount="100" pct="100,00" price="71,90" stockvalue="7190,24"/>
 <article id="30" amount="100" startamount="100" pct="100,00" price="129,61" stockvalue="12960,90"/>
 <article id="31" amount="100" startamount="100" pct="100,00" price="146,36" stockvalue="14636,00"/>
-<article id="32" amount="2400" startamount="2700" pct="88,89" price="0,82" stockvalue="1963,76"/>
-<article id="33" amount="400" startamount="900" pct="44,44" price="22,00" stockvalue="8800,00"/>
-<article id="34" amount="4000" startamount="22000" pct="18,18" price="0,10" stockvalue="400,00"/>
-<article id="35" amount="3200" startamount="3600" pct="88,89" price="1,07" stockvalue="3423,65"/>
-<article id="36" amount="800" startamount="900" pct="88,89" price="7,54" stockvalue="6032,59"/>
-<article id="37" amount="800" startamount="900" pct="88,89" price="1,42" stockvalue="1134,62"/>
+<article id="32" amount="1380" startamount="2700" pct="88,89" price="0,82" stockvalue="1963,76"/>
+<article id="33" amount="380" startamount="900" pct="44,44" price="22,00" stockvalue="8800,00"/>
+<article id="34" amount="3280" startamount="22000" pct="18,18" price="0,10" stockvalue="400,00"/>
+<article id="35" amount="2160" startamount="3600" pct="88,89" price="1,07" stockvalue="3423,65"/>
+<article id="36" amount="640" startamount="900" pct="88,89" price="7,54" stockvalue="6032,59"/>
+<article id="37" amount="440" startamount="900" pct="88,89" price="1,42" stockvalue="1134,62"/>
 <article id="38" amount="650" startamount="300" pct="216,67" price="2,35" stockvalue="1527,50"/>
-<article id="39" amount="2500" startamount="900" pct="277,78" price="1,49" stockvalue="3723,00"/>
-<article id="40" amount="800" startamount="900" pct="88,89" price="2,35" stockvalue="1878,26"/>
-<article id="41" amount="800" startamount="900" pct="88,89" price="0,09" stockvalue="72,61"/>
-<article id="42" amount="1600" startamount="1800" pct="88,89" price="0,11" stockvalue="180,81"/>
-<article id="43" amount="900" startamount="1900" pct="47,37" price="5,00" stockvalue="4500,00"/>
-<article id="44" amount="1950" startamount="2700" pct="72,22" price="0,50" stockvalue="968,66"/>
-<article id="45" amount="800" startamount="900" pct="88,89" price="0,40" stockvalue="320,88"/>
-<article id="46" amount="800" startamount="900" pct="88,89" price="0,13" stockvalue="107,33"/>
-<article id="47" amount="800" startamount="900" pct="88,89" price="3,32" stockvalue="2656,76"/>
-<article id="48" amount="1600" startamount="1800" pct="88,89" price="1,43" stockvalue="2292,42"/>
-<article id="49" amount="100" startamount="100" pct="100,00" price="68,28" stockvalue="6827,51"/>
-<article id="50" amount="100" startamount="100" pct="100,00" price="124,72" stockvalue="12472,20"/>
-<article id="51" amount="100" startamount="100" pct="100,00" price="142,16" stockvalue="14216,30"/>
-<article id="52" amount="900" startamount="600" pct="150,00" price="20,29" stockvalue="18256,68"/>
-<article id="53" amount="33600" startamount="22000" pct="152,73" price="0,09" stockvalue="3114,15"/>
+<article id="39" amount="1780" startamount="900" pct="277,78" price="1,49" stockvalue="3723,00"/>
+<article id="40" amount="440" startamount="900" pct="88,89" price="2,35" stockvalue="1878,26"/>
+<article id="41" amount="440" startamount="900" pct="88,89" price="0,09" stockvalue="72,61"/>
+<article id="42" amount="880" startamount="1800" pct="88,89" price="0,11" stockvalue="180,81"/>
+<article id="43" amount="540" startamount="1900" pct="47,37" price="5,00" stockvalue="4500,00"/>
+<article id="44" amount="910" startamount="2700" pct="72,22" price="0,50" stockvalue="968,66"/>
+<article id="45" amount="440" startamount="900" pct="88,89" price="0,40" stockvalue="320,88"/>
+<article id="46" amount="440" startamount="900" pct="88,89" price="0,13" stockvalue="107,33"/>
+<article id="47" amount="540" startamount="900" pct="88,89" price="3,32" stockvalue="2656,76"/>
+<article id="48" amount="920" startamount="1800" pct="88,89" price="1,43" stockvalue="2292,42"/>
+<article id="49" amount="200" startamount="100" pct="100,00" price="68,28" stockvalue="6827,51"/>
+<article id="50" amount="0" startamount="100" pct="100,00" price="124,72" stockvalue="12472,20"/>
+<article id="51" amount="190" startamount="100" pct="100,00" price="142,16" stockvalue="14216,30"/>
+<article id="52" amount="1190" startamount="600" pct="150,00" price="20,29" stockvalue="18256,68"/>
+<article id="53" amount="22440" startamount="22000" pct="152,73" price="0,09" stockvalue="3114,15"/>
 <article id="54" amount="100" startamount="100" pct="100,00" price="70,98" stockvalue="7097,86"/>
 <article id="55" amount="100" startamount="100" pct="100,00" price="126,74" stockvalue="12674,00"/>
 <article id="56" amount="100" startamount="100" pct="100,00" price="144,75" stockvalue="14474,70"/>
-<article id="57" amount="600" startamount="600" pct="100,00" price="21,18" stockvalue="12708,00"/>
-<article id="58" amount="22400" startamount="22000" pct="101,82" price="0,11" stockvalue="2410,44"/>
-<article id="59" amount="1600" startamount="1800" pct="88,89" price="0,16" stockvalue="252,60"/>
+<article id="57" amount="400" startamount="600" pct="100,00" price="21,18" stockvalue="12708,00"/>
+<article id="58" amount="15200" startamount="22000" pct="101,82" price="0,11" stockvalue="2410,44"/>
+<article id="59" amount="900" startamount="1800" pct="88,89" price="0,16" stockvalue="252,60"/>
 <totalstockvalue>235939,60</totalstockvalue>
 </warehousestock>
 <inwardstockmovement>
@@ -71,7 +71,14 @@
 <order orderperiod="3" id="8" mode="5" article="53" amount="22000" time="28800" materialcosts="1980,00" ordercosts="50,00" entirecosts="2030,00" piececosts="0,09"/>
 </inwardstockmovement>
 <futureinwardstockmovement>
+<order orderperiod="4" id="3" mode="5" article="44" amount="1080"/>
+<order orderperiod="4" id="3" mode="5" article="58" amount="22000"/>
+<order orderperiod="4" id="3" mode="5" article="34" amount="22000"/>
+<order orderperiod="4" id="3" mode="5" article="22" amount="300"/>
+<order orderperiod="4" id="3" mode="5" article="35" amount="3600"/>
 <order orderperiod="3" id="3" mode="5" article="24" amount="6100"/>
+<order orderperiod="4" id="3" mode="5" article="32" amount="2700"/>
+<order orderperiod="4" id="3" mode="5" article="43" amount="2700"/>
 </futureinwardstockmovement>
 <idletimecosts>
 <workplace id="1" setupevents="0" idletime="2400" wageidletimecosts="1080,00" wagecosts="0,00" machineidletimecosts="24,00"/>
@@ -94,17 +101,17 @@
 <workplace id="1" timeneed="0"/>
 <workplace id="2" timeneed="0"/>
 <workplace id="3" timeneed="0"/>
-<workplace id="4" timeneed="0"/>
+<workplace id="4" timeneed="630"/>
 <workplace id="6" timeneed="0"/>
-<workplace id="7" timeneed="0"/>
-<workplace id="8" timeneed="0"/>
-<workplace id="9" timeneed="0"/>
-<workplace id="10" timeneed="0"/>
+<workplace id="7" timeneed="75"/>
+<workplace id="8" timeneed="70"/>
+<workplace id="9" timeneed="101"/>
+<workplace id="10" timeneed="820"/>
 <workplace id="11" timeneed="0"/>
 <workplace id="12" timeneed="0"/>
 <workplace id="13" timeneed="0"/>
 <workplace id="14" timeneed="0"/>
-<workplace id="15" timeneed="0"/>
+<workplace id="15" timeneed="240"/>
 </waitinglistworkstations>
 <waitingliststock/>
 <ordersinwork/>
